@@ -31,8 +31,6 @@
                         echo "<td>$status_id </td>";
                         echo "<td>$status_desc</td>";
                         echo "<td style='background-color:$status_color;'></td>";
-                        echo "<td><a href='edit_cat.php?edit_cat={$status_id}'><img src='images/edit.png'></a></td>";
-                        echo "<td><a href='includes/del_cat.php?delete={$status_id}'><img src='images/delete.png'></a></td>";
                         
                         echo "</tr>";
                     }

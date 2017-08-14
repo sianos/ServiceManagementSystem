@@ -24,7 +24,7 @@
             confirmQuery($create_item_query); 
        
        
-                 echo "Το Μηχάνημα Καταχωρήθηκε : " . " " . "<a href='view_cust.php'>Προβολή Μηχανημάτων</a> "; 
+                 echo "Το Μηχάνημα Καταχωρήθηκε : " . " " . "<a href='view_items.php'>Προβολή Μηχανημάτων</a> "; 
        
       
    

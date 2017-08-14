@@ -30,7 +30,7 @@
             confirmQuery($create_serv_query); 
        
        
-                 echo "Η Εγγραφή Δημιουργήθηκε : " . " " . "<a href='view_serv.php'>Προβολή Service</a> "; 
+                 echo "Η Εγγραφή Δημιουργήθηκε : " . " " . "<a href='view_open_serv.php'>Προβολή Service</a> "; 
        
             }
    
